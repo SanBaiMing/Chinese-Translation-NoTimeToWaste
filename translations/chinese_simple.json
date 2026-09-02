@@ -89,7 +89,7 @@
     "Delica: I was the first to show symptoms but, I'm told Ponderosa has reported feeling nauseous... I have a theory that this is being caused by the asteroid but I cannot be certain. If I'm right, may we be spared the worst.": "德利卡：我是第一个出现症状的，但听说庞德洛萨也开始觉得恶心了……我怀疑是那颗小行星导致的，但还不能确定。希望我是错的，希望我们都能挺过去。",
 
     //FutureRecording7.xml
-    "Brevipes: ...It is only me, Polytricha and calveryi left. After they got ill, the other's disappeared one day, without a trace.": "布雷维佩斯：……现在只剩我、波利特里卡和卡尔维里了。他们生病之后，某天就全都消失了，无影无踪。",
+    "Brevipes: ...It is only me, Polytricha and Calveryi left. After they got ill, the other's disappeared one day, without a trace.": "布雷维佩斯：……现在只剩我、波利特里卡和卡尔维里了。他们生病之后，某天就全都消失了，无影无踪。",
     "Brevipes: I can barely remember their names, it's like they've been erased from time! It's all that damned asteroid's fault... It's begun cracking, there's a faint green glow inside.": "布雷维佩斯：我都快记不清他们的名字了，就像被从时间里抹掉了一样！全是那颗该死的小行星的错……它已经开始裂开了，里面泛着微弱的绿光。",
     "Brevipes: I don't know what's going to happen except that sooner or later we'll all get sick and suffer the same fate...": "布雷维佩斯：我不知道接下来会发生什么，只知道我们早晚都会染病，落得同样的下场……",
     "Brevipes: But perhaps I can create a device to reverse the effects of the asteroid. I must try!": "布雷维佩斯：但或许我能造出一台装置，逆转小行星的影响。我必须试一试！",
@@ -265,7 +265,8 @@
     "I found a clue that says \"In the wall by the stairs - hidden, unlike my love for you.\"": "我找到了一条线索：“楼梯旁的墙后——藏于此处，却藏不住我对你的爱意。”",
     "I found a clue that says \"Somewhere within our shuttle, which will warp us high into the stars that shine in your eyes.\"": "我找到了一条线索：“藏在我们的航天飞机里，它将载我们去往群星，正如你眼中的熠熠星光。”",
     "I found a final clue that says \"And now, take this scroll and traverse to the bottom of the twin flat peaks to retrieve your prize.\"": "我找到了最终线索：“最后，带上这卷卷轴，前往双平顶山底，寻获你的奖赏。”",
-    "I found the vault with text that said to place the scroll into the door.": "我找到了宝库，门上的文字提示需将卷轴放入门中。",
+    //"I found the vault with text that said to place the scroll into the door.": "我找到了宝库，门上的文字提示需将卷轴放入门中。",
+    "I found some kind of vault.": "我找到了某种宝库。",
     "Malleable Heart": "塑形核心",
     "I followed clues left from a treasure hunt that led me to a vault.": "我循着寻宝游戏留下的线索，找到了一座宝库。",
     "Inside the vault was a heart that seems similar to the projection goop the Nomai used in my star system. I might be able to bring this to the future to assemble a device and dampen the asteroid's effects.": "宝库中有一颗核心，与我家乡星系挪麦人使用的投影液性质相似。我或许可以将它带到未来，组装装置以抑制小行星的影响。",
@@ -284,7 +285,7 @@
     "Ernesto says flying out of his bramble seed will take me where I need to go, and flying into the seed below him will take me back to the start.": "厄内斯托说，从他所在的黑棘种子飞出去就能到达目的地，飞入他下方的种子则能回到起点。",
     "I interrupted his staring and now we're not friends anymore ::(.": "我打扰了他发呆，现在我们绝交了。::(",
     "Nomai Camps": "挪麦营地",
-    "I found various Nomai buildings scattered across Ourea's Peak.": "乌瑞亚之峰上散落着各式各样的挪麦建筑。",
+    "I found various Nomai buildings scattered across Ourea's Peak. Two on the ground, one on the cliffside of a mountain, and one on the top of a mountain.": "乌瑞亚之峰上散落着各式各样的挪麦建筑。两个坐落于地面，一个在山体悬崖的侧壁上，还有一个位于山顶。",
     "I found a Nomai scroll next to a small Bramble Seed, they wondered what could be inside.": "我在一颗小黑棘种子旁找到了挪麦卷轴，他们很好奇内部有什么。",
     "I found writings from two Nomai theorizing about being stolen from by another species.": "我找到了两位挪麦人的记录，他们猜测自己的物品被另一个物种偷走了。",
 
